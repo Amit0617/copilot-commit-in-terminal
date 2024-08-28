@@ -90,7 +90,5 @@ def generate_commit_message(github_token):
     return commit_message.strip().strip('`').strip()
 
 if __name__ == "__main__":
-    # read token from token.txt
-    with open('token.txt', 'r') as file:
-        github_token = file.read().strip()
-        print(generate_commit_message(github_token))
+    github_token = 'gho_<YOUR_GITHUB_TOKEN>'
+    print(generate_commit_message(github_token))
