@@ -1,8 +1,8 @@
 # copilot-commit-in-terminal
-Copilot extension in vscode commit message input shows a button to automatically generate commit message.![alt text](copilot-commit.gif)
+Copilot extension in vscode commit message input shows a button to automatically generate commit message.![alt text](commit_ui.gif)
 
-## Demo
-![Demo of using it in action](copilot-commit-terminal.gif)
+# Demo
+![Demo of using it in action](copilot_commit_terminal.gif)
 
 ## How to use?
 ⚠️ For the following process, it is assummed that you have copilot access and have setup your vscode with github acccount logged in. You must be able to use copilot commit functionality through UI as shown in GIF above then only you can have that access in terminal.
