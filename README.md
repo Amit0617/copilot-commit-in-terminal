@@ -2,6 +2,7 @@
 Copilot extension in vscode commit message input shows a button to automatically generate commit message.![alt text](commit_ui.gif)
 
 # Demo
+Now you can do that without leaving your terminal
 ![Demo of using it in action](copilot_commit_terminal.gif)
 
 ## How to use?
